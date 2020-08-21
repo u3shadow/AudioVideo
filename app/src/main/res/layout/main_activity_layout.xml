@@ -14,5 +14,10 @@
     android:id="@+id/goPic"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"/>
-
+    <Button
+        android:text="@string/opengl"
+        android:onClick="onClick"
+        android:id="@+id/goOpenGl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 </LinearLayout>

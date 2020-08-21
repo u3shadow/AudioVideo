@@ -15,6 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".opengl.OpenGLES20Activity"/>
         <activity android:name=".showpic.ShowPicActivity"/>
     </application>
 
